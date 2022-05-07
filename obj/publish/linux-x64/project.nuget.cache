@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ws2yuK9TB4zni+ZzdNSVGH0BPxQqPs1vbiIOd+4UKQH28FXctPWZWtvdsEaLi3P/ZHWk3rPC2jFdJMW11uY3xA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Azlan\\Desktop\\VSCode\\cs_WpfApp\\cs_WpfApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Azlan\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.4\\microsoft.netcore.app.host.linux-x64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

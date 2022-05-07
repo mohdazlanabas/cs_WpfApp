@@ -1,0 +1,5 @@
+C:\Users\Azlan\Desktop\VSCode\cs_Calendar_Publish_Windows\cs_WpfApp.exe
+C:\Users\Azlan\Desktop\VSCode\cs_Calendar_Publish_Windows\cs_WpfApp.dll
+C:\Users\Azlan\Desktop\VSCode\cs_Calendar_Publish_Windows\cs_WpfApp.deps.json
+C:\Users\Azlan\Desktop\VSCode\cs_Calendar_Publish_Windows\cs_WpfApp.runtimeconfig.json
+C:\Users\Azlan\Desktop\VSCode\cs_Calendar_Publish_Windows\cs_WpfApp.pdb
